@@ -49,19 +49,19 @@ Hi there! I'm Vinh, a **full-stack developer** with a strong focus on **frontend
 
 ## Featured Projects  
 
-### 🌟 [Blockchain Marketplace](https://github.com/your-username/blockchain-marketplace)  
+### 🌟 [Blockchain Marketplace](https://github.com/VinhNguyen0301/blockchain-marketplace)  
 **Tech Stack**: Solidity, React, Web3.js, Hardhat  
 A decentralized marketplace allowing users to buy, sell, and trade assets securely on the Ethereum blockchain.  
 
-### 🔗 [Decentralized Voting App](https://github.com/your-username/voting-app)  
+### 🔗 [Decentralized Voting App](https://github.com/VinhNguyen0301/voting-app)  
 **Tech Stack**: Solidity, React, Truffle  
 A dApp enabling secure, transparent, and tamper-proof voting.  
 
-### 💡 [Frontend Magic App](https://github.com/your-username/frontend-magic)  
+### 💡 [Frontend Magic App](https://github.com/VinhNguyen0301/frontend-magic)  
 **Tech Stack**: Vue.js, Tailwind CSS  
 A modern UI kit showcasing creative and responsive design patterns for developers.  
 
-### 🌍 [Full-Stack Blog Platform](https://github.com/your-username/fullstack-blog-platform)  
+### 🌍 [Full-Stack Blog Platform](https://github.com/VinhNguyen0301/fullstack-blog-platform)  
 **Tech Stack**: React, Node.js, MongoDB, Express.js  
 A blogging platform featuring real-time publishing, user authentication, and rich-text editing.  
 
@@ -69,8 +69,8 @@ A blogging platform featuring real-time publishing, user authentication, and ric
 
 ## My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinhNguyen0301&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNguyen0301&layout=compact&theme=radical)  
 
 ---
 
